@@ -45,14 +45,4 @@ The recommended order of intro notebook is:
 
 
 
-## extra material:
-
-For instructions on how to set environment with git and Docker, see: [instructions](instructions).
-
-The recommended order of instructions is:
-
-1. [git_github_instructions](instructions/git_github_instructions.md)
-2. [docker_instructions](instructions/docker_instructions.md)
-3. [jupyter_instructions](instructions/jupyter_instructions.md)
-
 
